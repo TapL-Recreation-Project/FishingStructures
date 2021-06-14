@@ -1,0 +1,733 @@
+y=0:
+  x=-6:
+  - -10;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:dark_oak_planks
+  - -15;minecraft:dark_oak_planks
+  - -16;minecraft:dark_oak_planks
+  - -17;minecraft:dark_oak_planks
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:dark_oak_planks
+  - -21;minecraft:dark_oak_planks
+  - -22;minecraft:dark_oak_planks
+  - -23;minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  - -28;minecraft:spruce_planks
+y=1:
+  x=-4:
+  - -11;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -13;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -14;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -16;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -17;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -19;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-5:
+  - -10;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -14;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -17;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-6:
+  - -8;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -14;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -17;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:dark_oak_planks
+  - -25;minecraft:dark_oak_planks
+  - -26;minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  - -28;minecraft:spruce_planks
+  x=-7:
+  - -10;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -14;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -17;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -11;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -13;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -14;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -16;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -17;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -19;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+y=2:
+  x=-3:
+  - -11;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -13;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -14;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -16;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -17;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -19;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-4:
+  - -10;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -14;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -17;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -20;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -26;minecraft:spruce_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]
+  x=-5:
+  - -9;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:spruce_planks
+  - -18;minecraft:spruce_door[facing=east,half=lower,hinge=left,open=false,powered=false]
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-6:
+  - -7;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:chest[facing=south,type=single,waterlogged=false]
+  - -13;minecraft:spruce_log[axis=y]
+  - -18;minecraft:spruce_log[axis=y]
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:dark_oak_planks
+  - -27;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -28;minecraft:spruce_planks
+  x=-7:
+  - -9;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -20;minecraft:chest[facing=west,type=single,waterlogged=false]
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -10;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -14;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -17;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -20;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -26;minecraft:spruce_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]
+  x=-9:
+  - -11;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -13;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -14;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -16;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -17;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -19;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+y=3:
+  x=-3:
+  - -10;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -26;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-4:
+  - -9;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:dark_oak_planks
+  - -24;minecraft:dark_oak_planks
+  - -25;minecraft:dark_oak_planks
+  - -26;minecraft:dark_oak_planks
+  - -27;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-5:
+  - -7;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:spruce_planks
+  - -18;minecraft:spruce_door[facing=east,half=upper,hinge=left,open=false,powered=false]
+  - -21;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:dark_oak_planks
+  - -23;minecraft:dark_oak_planks
+  - -24;minecraft:dark_oak_planks
+  - -25;minecraft:dark_oak_planks
+  - -26;minecraft:dark_oak_planks
+  - -27;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-6:
+  - -6;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:spruce_planks
+  - -8;minecraft:spruce_planks
+  - -9;minecraft:spruce_planks
+  - -13;minecraft:spruce_log[axis=y]
+  - -18;minecraft:spruce_log[axis=y]
+  - -21;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:dark_oak_planks
+  - -23;minecraft:dark_oak_planks
+  - -24;minecraft:dark_oak_planks
+  - -25;minecraft:dark_oak_planks
+  - -26;minecraft:dark_oak_planks
+  - -27;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  x=-7:
+  - -7;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -21;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:dark_oak_planks
+  - -23;minecraft:dark_oak_planks
+  - -24;minecraft:dark_oak_planks
+  - -25;minecraft:dark_oak_planks
+  - -26;minecraft:dark_oak_planks
+  - -27;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -9;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:dark_oak_planks
+  - -24;minecraft:dark_oak_planks
+  - -25;minecraft:dark_oak_planks
+  - -26;minecraft:dark_oak_planks
+  - -27;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-9:
+  - -10;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:spruce_planks
+  - -15;minecraft:spruce_planks
+  - -16;minecraft:spruce_planks
+  - -18;minecraft:spruce_planks
+  - -19;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -26;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+y=4:
+  x=-2:
+  - -11;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -13;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -14;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -16;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -17;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -19;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-3:
+  - -9;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:dark_oak_planks
+  - -15;minecraft:dark_oak_planks
+  - -16;minecraft:dark_oak_planks
+  - -17;minecraft:dark_oak_planks
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:spruce_planks
+  x=-4:
+  - -7;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:dark_oak_planks
+  - -16;minecraft:dark_oak_planks
+  - -17;minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:dark_oak_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  x=-5:
+  - -6;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:spruce_planks
+  - -8;minecraft:spruce_planks
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+  - -12;minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+  - -15;minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]
+  - -16;minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]
+  - -17;minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:dark_oak_planks
+  - -21;minecraft:spruce_planks
+  - -25;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  x=-6:
+  - -5;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:spruce_planks
+  - -8;minecraft:spruce_planks
+  - -9;minecraft:spruce_log[axis=y]
+  - -10;minecraft:dark_oak_planks
+  - -13;minecraft:spruce_log[axis=y]
+  - -14;minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+  - -17;minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+  - -18;minecraft:spruce_log[axis=y]
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -25;minecraft:spruce_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  - -28;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-7:
+  - -6;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:spruce_planks
+  - -8;minecraft:spruce_planks
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+  - -12;minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]
+  - -15;minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]
+  - -16;minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]
+  - -17;minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:dark_oak_planks
+  - -21;minecraft:spruce_planks
+  - -25;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  x=-8:
+  - -7;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:dark_oak_planks
+  - -16;minecraft:dark_oak_planks
+  - -17;minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:dark_oak_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -26;minecraft:chest[facing=north,type=single,waterlogged=false]
+  - -27;minecraft:spruce_planks
+  x=-9:
+  - -9;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  - -13;minecraft:dark_oak_planks
+  - -14;minecraft:dark_oak_planks
+  - -15;minecraft:dark_oak_planks
+  - -16;minecraft:dark_oak_planks
+  - -17;minecraft:dark_oak_planks
+  - -18;minecraft:dark_oak_planks
+  - -19;minecraft:dark_oak_planks
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:spruce_planks
+  x=-10:
+  - -11;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -13;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -14;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -15;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -16;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -17;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -19;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+y=5:
+  x=-2:
+  - -10;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -14;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -15;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -17;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+  - -18;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -19;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]
+  x=-3:
+  - -8;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:spruce_planks
+  - -20;minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:spruce_planks
+  - -27;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-4:
+  - -7;minecraft:spruce_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -21;minecraft:spruce_planks
+  - -27;minecraft:spruce_planks
+  x=-5:
+  - -5;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -6;minecraft:spruce_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -27;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -28;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-6:
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:spruce_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:spruce_log[axis=y]
+  - -13;minecraft:spruce_log[axis=y]
+  - -18;minecraft:spruce_log[axis=y]
+  - -27;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  x=-7:
+  - -5;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -6;minecraft:spruce_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -27;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -28;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -7;minecraft:spruce_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -21;minecraft:spruce_planks
+  - -27;minecraft:spruce_planks
+  x=-9:
+  - -8;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:spruce_planks
+  - -20;minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_planks
+  - -26;minecraft:spruce_planks
+  - -27;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-10:
+  - -10;minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:spruce_planks
+  - -12;minecraft:spruce_planks
+  - -13;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -14;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -15;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -17;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+  - -18;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -19;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -20;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]
+y=6:
+  x=-2:
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  x=-3:
+  - -8;minecraft:spruce_planks
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -22;minecraft:dark_oak_planks
+  - -23;minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+  - -25;minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -26;minecraft:spruce_planks
+  - -27;minecraft:spruce_planks
+  x=-4:
+  - -7;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -28;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-5:
+  - -4;minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  - -5;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -6;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -23;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  x=-6:
+  - -4;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -22;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -23;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-7:
+  - -4;minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]
+  - -5;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -6;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -23;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  x=-8:
+  - -7;minecraft:spruce_planks
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -28;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-9:
+  - -8;minecraft:spruce_planks
+  - -9;minecraft:spruce_planks
+  - -10;minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -22;minecraft:dark_oak_planks
+  - -23;minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+  - -25;minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -26;minecraft:spruce_planks
+  - -27;minecraft:spruce_planks
+  x=-10:
+  - -10;minecraft:spruce_planks
+  - -11;minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -20;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_planks
+  - -22;minecraft:spruce_planks
+  - -23;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+y=7:
+  x=-2:
+  - -22;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+  x=-3:
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:spruce_planks
+  - -27;minecraft:spruce_planks
+  x=-4:
+  - -23;minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -24;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  x=-5:
+  - -4;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -5;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -6;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  - -29;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-6:
+  - -3;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -21;minecraft:spruce_slab[type=bottom,waterlogged=false]
+  - -22;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -29;minecraft:spruce_planks
+  x=-7:
+  - -4;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -5;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -6;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  - -29;minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -23;minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -24;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -27;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -28;minecraft:spruce_planks
+  x=-9:
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -25;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -26;minecraft:spruce_planks
+  - -27;minecraft:spruce_planks
+  x=-10:
+  - -22;minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -23;minecraft:spruce_planks
+  - -24;minecraft:spruce_planks
+  - -25;minecraft:spruce_planks
+y=8:
+  x=-2:
+  - -23;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  x=-3:
+  - -23;minecraft:spruce_planks
+  - -25;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -26;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -27;minecraft:spruce_planks
+  x=-4:
+  - -28;minecraft:spruce_planks
+  x=-5:
+  - -23;minecraft:spruce_planks
+  - -28;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -29;minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+  x=-6:
+  - -2;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -23;minecraft:spruce_planks
+  - -29;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-7:
+  - -23;minecraft:spruce_planks
+  - -28;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -29;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+  x=-8:
+  - -28;minecraft:spruce_planks
+  x=-9:
+  - -23;minecraft:spruce_planks
+  - -25;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -26;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -27;minecraft:spruce_planks
+  x=-10:
+  - -23;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -24;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -25;minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]

@@ -1,0 +1,1302 @@
+y=0:
+  x=-10:
+  - -15;minecraft:magma_block
+  x=-12:
+  - -15;minecraft:netherrack
+  x=-14:
+  - -18;minecraft:netherrack
+y=1:
+  x=-10:
+  - -15;minecraft:netherrack
+  x=-12:
+  - -15;minecraft:netherrack
+  x=-14:
+  - -18;minecraft:netherrack
+  x=-15:
+  - -21;minecraft:netherrack
+  x=-20:
+  - -17;minecraft:netherrack
+y=2:
+  x=-7:
+  - -18;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  x=-10:
+  - -15;minecraft:magma_block
+  x=-12:
+  - -15;minecraft:netherrack
+  x=-14:
+  - -18;minecraft:netherrack
+  x=-15:
+  - -21;minecraft:netherrack
+  x=-16:
+  - -12;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-20:
+  - -17;minecraft:netherrack
+y=3:
+  x=-7:
+  - -18;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  x=-10:
+  - -13;minecraft:netherrack
+  - -15;minecraft:magma_block
+  - -16;minecraft:netherrack
+  x=-12:
+  - -15;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-14:
+  - -18;minecraft:netherrack
+  x=-15:
+  - -8;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-16:
+  - -12;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-19:
+  - -18;minecraft:netherrack
+  x=-20:
+  - -17;minecraft:netherrack
+y=4:
+  x=-4:
+  - -14;minecraft:netherrack
+  x=-6:
+  - -14;minecraft:netherrack
+  x=-7:
+  - -18;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  x=-10:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-12:
+  - -15;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-13:
+  - -14;minecraft:magma_block
+  - -18;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-14:
+  - -8;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  x=-15:
+  - -8;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-16:
+  - -12;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-18:
+  - -14;minecraft:magma_block
+  - -17;minecraft:netherrack
+  x=-19:
+  - -18;minecraft:netherrack
+  x=-20:
+  - -17;minecraft:netherrack
+y=5:
+  x=-4:
+  - -14;minecraft:netherrack
+  x=-6:
+  - -14;minecraft:netherrack
+  x=-7:
+  - -18;minecraft:magma_block
+  - -20;minecraft:netherrack
+  x=-8:
+  - -13;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  x=-10:
+  - -10;minecraft:netherrack
+  - -13;minecraft:magma_block
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-12:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-13:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-14:
+  - -8;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  x=-15:
+  - -8;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:magma_block
+  - -21;minecraft:netherrack
+  - -23;minecraft:magma_block
+  x=-16:
+  - -12;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-17:
+  - -14;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-18:
+  - -12;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -17;minecraft:netherrack
+  x=-19:
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-20:
+  - -17;minecraft:netherrack
+  x=-21:
+  - -15;minecraft:netherrack
+  x=-25:
+  - -17;minecraft:netherrack
+y=6:
+  x=-4:
+  - -14;minecraft:netherrack
+  x=-6:
+  - -14;minecraft:netherrack
+  x=-7:
+  - -13;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-8:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:magma_block
+  x=-10:
+  - -10;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-11:
+  - -10;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-12:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-13:
+  - -8;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-14:
+  - -8;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -22;minecraft:netherrack
+  x=-15:
+  - -8;minecraft:magma_block
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:magma_block
+  - -19;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-16:
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-17:
+  - -11;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-18:
+  - -12;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -17;minecraft:magma_block
+  - -20;minecraft:netherrack
+  x=-19:
+  - -11;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-20:
+  - -14;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-21:
+  - -15;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-25:
+  - -17;minecraft:netherrack
+y=7:
+  x=-4:
+  - -14;minecraft:netherrack
+  x=-5:
+  - -17;minecraft:netherrack
+  x=-6:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  x=-7:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-8:
+  - -13;minecraft:magma_block
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-10:
+  - -10;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-11:
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-12:
+  - -9;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -26;minecraft:magma_block
+  x=-13:
+  - -8;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:magma_block
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-14:
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -12;minecraft:magma_block
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -22;minecraft:netherrack
+  x=-15:
+  - -5;minecraft:netherrack
+  - -6;minecraft:netherrack
+  - -8;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:magma_block
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-16:
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:magma_block
+  - -18;minecraft:netherrack
+  - -19;minecraft:magma_block
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-17:
+  - -11;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-18:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-19:
+  - -11;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-20:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-21:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -21;minecraft:magma_block
+  x=-22:
+  - -19;minecraft:netherrack
+  x=-23:
+  - -15;minecraft:netherrack
+  x=-24:
+  - -15;minecraft:netherrack
+  x=-25:
+  - -17;minecraft:netherrack
+y=8:
+  x=-3:
+  - -17;minecraft:netherrack
+  x=-4:
+  - -14;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-5:
+  - -15;minecraft:magma_block
+  - -17;minecraft:netherrack
+  x=-6:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -18;minecraft:netherrack
+  x=-7:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-8:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:magma_block
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -22;minecraft:netherrack
+  x=-10:
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-11:
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:magma_block
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-12:
+  - -9;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-13:
+  - -5;minecraft:magma_block
+  - -6;minecraft:netherrack
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-14:
+  - -4;minecraft:netherrack
+  - -5;minecraft:netherrack
+  - -6;minecraft:netherrack
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -24;minecraft:magma_block
+  - -25;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-15:
+  - -5;minecraft:netherrack
+  - -6;minecraft:netherrack
+  - -8;minecraft:netherrack
+  - -9;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-16:
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-17:
+  - -9;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:magma_block
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -24;minecraft:netherrack
+  x=-18:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:magma_block
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-19:
+  - -11;minecraft:netherrack
+  - -12;minecraft:magma_block
+  - -13;minecraft:magma_block
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:magma_block
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-20:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:magma_block
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  x=-21:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-22:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-23:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-24:
+  - -15;minecraft:netherrack
+  - -16;minecraft:magma_block
+  x=-25:
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  x=-26:
+  - -16;minecraft:netherrack
+y=9:
+  x=-3:
+  - -17;minecraft:netherrack
+  x=-4:
+  - -14;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-5:
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  x=-6:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  x=-7:
+  - -13;minecraft:netherrack
+  - -14;minecraft:magma_block
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-8:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-9:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  x=-10:
+  - -10;minecraft:magma_block
+  - -11;minecraft:magma_block
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-11:
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:magma_block
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-12:
+  - -9;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:magma_block
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:magma_block
+  - -26;minecraft:netherrack
+  x=-13:
+  - -5;minecraft:netherrack
+  - -6;minecraft:netherrack
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:magma_block
+  - -25;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-14:
+  - -4;minecraft:netherrack
+  - -5;minecraft:magma_block
+  - -6;minecraft:magma_block
+  - -8;minecraft:netherrack
+  - -10;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:magma_block
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -24;minecraft:netherrack
+  - -25;minecraft:netherrack
+  - -26;minecraft:netherrack
+  x=-15:
+  - -5;minecraft:netherrack
+  - -6;minecraft:netherrack
+  - -8;minecraft:netherrack
+  - -9;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-16:
+  - -8;minecraft:netherrack
+  - -10;minecraft:magma_block
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -25;minecraft:netherrack
+  x=-17:
+  - -9;minecraft:netherrack
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  - -24;minecraft:netherrack
+  x=-18:
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  x=-19:
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -23;minecraft:netherrack
+  x=-20:
+  - -11;minecraft:netherrack
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  - -21;minecraft:netherrack
+  - -22;minecraft:netherrack
+  x=-21:
+  - -12;minecraft:netherrack
+  - -13;minecraft:magma_block
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:magma_block
+  - -19;minecraft:magma_block
+  - -21;minecraft:netherrack
+  x=-22:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-23:
+  - -13;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:magma_block
+  x=-24:
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  x=-25:
+  - -16;minecraft:netherrack
+  - -17;minecraft:magma_block
+  x=-26:
+  - -16;minecraft:netherrack
+y=10:
+  x=-7:
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  x=-8:
+  - -14;minecraft:stone_bricks
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:magma_block
+  - -19;minecraft:netherrack
+  x=-9:
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-10:
+  - -13;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:lava[level=0]
+  - -20;minecraft:netherrack
+  x=-11:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:lava[level=0]
+  - -20;minecraft:magma_block
+  x=-12:
+  - -12;minecraft:chest[facing=north,type=single,waterlogged=false]
+  - -13;minecraft:magma_block
+  - -14;minecraft:netherrack
+  - -15;minecraft:magma_block
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-13:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:magma_block
+  - -15;minecraft:lava[level=0]
+  - -16;minecraft:stone_bricks
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-14:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:lava[level=0]
+  - -15;minecraft:lava[level=0]
+  - -16;minecraft:lava[level=0]
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:magma_block
+  - -20;minecraft:netherrack
+  x=-15:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:lava[level=0]
+  - -15;minecraft:lava[level=0]
+  - -16;minecraft:lava[level=0]
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-16:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:lava[level=0]
+  - -15;minecraft:lava[level=0]
+  - -16;minecraft:lava[level=0]
+  - -17;minecraft:netherrack
+  - -18;minecraft:magma_block
+  - -19;minecraft:netherrack
+  - -20;minecraft:netherrack
+  x=-17:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:lava[level=0]
+  - -15;minecraft:lava[level=0]
+  - -16;minecraft:lava[level=0]
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:lava[level=0]
+  - -20;minecraft:netherrack
+  x=-18:
+  - -12;minecraft:netherrack
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:netherrack
+  - -18;minecraft:netherrack
+  - -19;minecraft:netherrack
+  x=-19:
+  - -12;minecraft:netherrack
+  - -13;minecraft:magma_block
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:magma_block
+  - -18;minecraft:netherrack
+  x=-20:
+  - -13;minecraft:netherrack
+  - -14;minecraft:netherrack
+  - -15;minecraft:netherrack
+  - -16;minecraft:netherrack
+  - -17;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -18;minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+y=11:
+  x=-8:
+  - -15;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -16;minecraft:stone_brick_slab[type=double,waterlogged=false]
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -18;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-9:
+  - -14;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -15;minecraft:stone_bricks
+  - -16;minecraft:stone_bricks
+  - -17;minecraft:stone_bricks
+  - -18;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -19;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-10:
+  - -14;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -15;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -16;minecraft:stone_bricks
+  - -17;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -18;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-11:
+  - -14;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -15;minecraft:cracked_stone_bricks
+  - -16;minecraft:stone_bricks
+  - -17;minecraft:cracked_stone_bricks
+  - -18;minecraft:stone_slab[type=bottom,waterlogged=false]
+  x=-12:
+  - -14;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -15;minecraft:cracked_stone_bricks
+  - -16;minecraft:stone_bricks
+  - -17;minecraft:stone_bricks
+  - -18;minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -19;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-13:
+  - -13;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -17;minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -18;minecraft:stone_slab[type=bottom,waterlogged=false]
+  - -19;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-14:
+  - -13;minecraft:stone_slab[type=bottom,waterlogged=false]
+  - -17;minecraft:cracked_stone_bricks
+  - -18;minecraft:stone_slab[type=bottom,waterlogged=false]
+  x=-15:
+  - -12;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -13;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -17;minecraft:cracked_stone_bricks
+  - -18;minecraft:stone_slab[type=bottom,waterlogged=false]
+  - -19;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-16:
+  - -12;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -13;minecraft:stone_slab[type=bottom,waterlogged=false]
+  - -17;minecraft:cracked_stone_bricks
+  - -18;minecraft:crying_obsidian
+  - -19;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-17:
+  - -13;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -17;minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -18;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-18:
+  - -13;minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -14;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]
+  - -15;minecraft:stone_bricks
+  - -16;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -17;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -18;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-19:
+  - -14;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -15;minecraft:stone_slab[type=bottom,waterlogged=false]
+  - -16;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -17;minecraft:obsidian
+  x=-20:
+  - -13;minecraft:obsidian
+  - -14;minecraft:obsidian
+y=12:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:chiseled_stone_bricks
+  x=-10:
+  - -15;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -16;minecraft:crying_obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-11:
+  - -15;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -16;minecraft:obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-12:
+  - -16;minecraft:obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-13:
+  - -16;minecraft:crying_obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-14:
+  - -16;minecraft:obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-15:
+  - -16;minecraft:crying_obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-16:
+  - -16;minecraft:obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  - -18;minecraft:obsidian
+  x=-17:
+  - -16;minecraft:obsidian
+  - -17;minecraft:stone_brick_slab[type=bottom,waterlogged=false]
+  x=-18:
+  - -16;minecraft:cracked_stone_bricks
+  x=-19:
+  - -16;minecraft:stone_bricks
+y=13:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-10:
+  - -16;minecraft:crying_obsidian
+  x=-16:
+  - -18;minecraft:obsidian
+  x=-17:
+  - -16;minecraft:obsidian
+  x=-18:
+  - -16;minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]
+y=14:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-10:
+  - -16;minecraft:crying_obsidian
+  x=-18:
+  - -16;minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]
+y=15:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:cracked_stone_bricks
+  x=-10:
+  - -16;minecraft:obsidian
+y=16:
+  x=-8:
+  - -16;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]
+  x=-10:
+  - -16;minecraft:obsidian
+y=17:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-10:
+  - -16;minecraft:obsidian
+y=18:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:chiseled_stone_bricks
+  x=-10:
+  - -16;minecraft:obsidian
+  x=-18:
+  - -16;minecraft:cracked_stone_bricks
+  x=-19:
+  - -16;minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+y=19:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-10:
+  - -16;minecraft:obsidian
+  x=-17:
+  - -16;minecraft:crying_obsidian
+  x=-18:
+  - -16;minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]
+  x=-19:
+  - -16;minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+y=20:
+  x=-8:
+  - -16;minecraft:cracked_stone_bricks
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-10:
+  - -16;minecraft:obsidian
+  x=-17:
+  - -16;minecraft:obsidian
+  x=-18:
+  - -16;minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]
+  x=-19:
+  - -16;minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+y=21:
+  x=-8:
+  - -16;minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-9:
+  - -16;minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  x=-10:
+  - -16;minecraft:obsidian
+  x=-13:
+  - -16;minecraft:crying_obsidian
+  x=-14:
+  - -16;minecraft:crying_obsidian
+  x=-17:
+  - -16;minecraft:obsidian
+  x=-18:
+  - -16;minecraft:chiseled_stone_bricks
+  x=-19:
+  - -16;minecraft:stone_bricks
+y=22:
+  x=-8:
+  - -16;minecraft:stone_bricks
+  x=-9:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-10:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-11:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-12:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-13:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-14:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-15:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-16:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-17:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-18:
+  - -16;minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]
+  x=-19:
+  - -16;minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+y=23:
+  x=-8:
+  - -16;minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  x=-9:
+  - -16;minecraft:stone_bricks
+  x=-10:
+  - -16;minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  x=-11:
+  - -16;minecraft:cracked_stone_bricks
+  x=-12:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-13:
+  - -16;minecraft:stone_bricks
+  x=-14:
+  - -16;minecraft:stone_bricks
+  x=-15:
+  - -16;minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-16:
+  - -16;minecraft:stone_bricks
+  x=-17:
+  - -16;minecraft:stone_bricks
+  x=-18:
+  - -16;minecraft:stone_bricks
+  x=-19:
+  - -16;minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+y=24:
+  x=-11:
+  - -16;minecraft:stone_bricks
+  x=-12:
+  - -16;minecraft:stone_brick_slab[type=double,waterlogged=false]
+  x=-14:
+  - -17;minecraft:stone_brick_slab[type=top,waterlogged=false]
+  x=-15:
+  - -16;minecraft:stone_bricks
+  - -17;minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-16:
+  - -16;minecraft:cracked_stone_bricks

@@ -1,0 +1,709 @@
+y=0:
+  x=-3:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-4:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:chiseled_stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:chiseled_stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:chiseled_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-5:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:infested_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-6:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:chiseled_stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:chiseled_stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:chiseled_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-7:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:infested_stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-8:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:polished_andesite
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:chiseled_stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:infested_chiseled_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-9:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-10:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:cracked_stone_bricks
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:cracked_stone_bricks
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-11:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-12:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+y=1:
+  x=-3:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:mossy_stone_bricks
+  - -4;minecraft:infested_mossy_stone_bricks
+  - -5;minecraft:mossy_stone_bricks
+  - -6;minecraft:mossy_stone_bricks
+  - -7;minecraft:mossy_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-4:
+  - -2;minecraft:mossy_stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:mossy_stone_bricks
+  x=-5:
+  - -2;minecraft:mossy_stone_bricks
+  - -3;minecraft:chest[facing=south,type=single,waterlogged=false]
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:spruce_slab[type=top,waterlogged=false]
+  - -8;minecraft:mossy_stone_bricks
+  x=-6:
+  - -2;minecraft:mossy_stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:mossy_stone_bricks
+  x=-7:
+  - -2;minecraft:mossy_stone_bricks
+  - -3;minecraft:red_carpet
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:cauldron[level=2]
+  - -8;minecraft:mossy_stone_bricks
+  x=-8:
+  - -2;minecraft:mossy_stone_bricks
+  - -3;minecraft:red_carpet
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:mossy_stone_bricks
+  x=-9:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:mossy_stone_bricks
+  - -4;minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]
+  - -5;minecraft:mossy_stone_bricks
+  - -6;minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]
+  - -7;minecraft:mossy_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-10:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-11:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-12:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+y=2:
+  x=-3:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:infested_stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:cracked_stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:cracked_stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-4:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:potted_cactus
+  - -8;minecraft:stone_bricks
+  x=-5:
+  - -2;minecraft:cracked_stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:brewing_stand[has_bottle_0=false,has_bottle_1=true,has_bottle_2=false]
+  - -8;minecraft:infested_stone_bricks
+  x=-6:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:cracked_stone_bricks
+  x=-7:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-8:
+  - -2;minecraft:cracked_stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:oak_wall_sign[facing=west,waterlogged=false]
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-9:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]
+  - -5;minecraft:cracked_stone_bricks
+  - -6;minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-10:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-11:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-12:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+y=3:
+  x=-3:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-4:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:wall_torch[facing=east]
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:wall_torch[facing=east]
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-5:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-6:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-7:
+  - -2;minecraft:infested_stone_bricks
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-8:
+  - -2;minecraft:stone_bricks
+  - -3;minecraft:cobweb
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:wall_torch[facing=west]
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:stone_bricks
+  x=-9:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-10:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-11:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-12:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+y=4:
+  x=-3:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  x=-4:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-5:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:infested_stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-6:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:infested_chiseled_stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-7:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-8:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:stone_bricks
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:stone_bricks
+  - -8;minecraft:yellow_concrete
+  x=-9:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-10:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:stone_bricks
+  - -6;minecraft:stone_bricks
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-11:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  x=-12:
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+y=5:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=6:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=7:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=8:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=9:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=10:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=11:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=12:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=13:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=14:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=15:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=16:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=17:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=18:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=19:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=20:
+  x=-3:
+  - -5;minecraft:stone_bricks
+  x=-4:
+  - -4;minecraft:stone_bricks
+  - -5;minecraft:ladder[facing=east,waterlogged=false]
+  - -6;minecraft:stone_bricks
+  x=-5:
+  - -5;minecraft:stone_bricks
+y=21:
+  x=-2:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-3:
+  - -3;minecraft:snow_block
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-4:
+  - -2;minecraft:snow_block
+  - -3;minecraft:snow_block
+  - -4;minecraft:snow_block
+  - -5;minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]
+  - -6;minecraft:snow_block
+  - -7;minecraft:snow_block
+  - -8;minecraft:snow_block
+  x=-5:
+  - -2;minecraft:snow_block
+  - -3;minecraft:snow_block
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  - -7;minecraft:snow_block
+  - -8;minecraft:snow_block
+  x=-6:
+  - -2;minecraft:snow_block
+  - -3;minecraft:snow_block
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  - -7;minecraft:snow_block
+  - -8;minecraft:snow_block
+  x=-7:
+  - -3;minecraft:snow_block
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-8:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-9:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+y=22:
+  x=-2:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-3:
+  - -3;minecraft:snow_block
+  - -4;minecraft:light_gray_carpet
+  - -5;minecraft:light_gray_carpet
+  - -6;minecraft:light_gray_carpet
+  - -7;minecraft:snow_block
+  x=-4:
+  - -2;minecraft:snow_block
+  - -3;minecraft:crafting_table
+  - -4;minecraft:white_carpet
+  - -5;minecraft:white_carpet
+  - -6;minecraft:white_carpet
+  - -7;minecraft:red_bed[facing=west,occupied=false,part=head]
+  - -8;minecraft:snow_block
+  x=-5:
+  - -2;minecraft:ice
+  - -3;minecraft:redstone_torch[lit=true]
+  - -4;minecraft:white_carpet
+  - -5;minecraft:white_carpet
+  - -6;minecraft:white_carpet
+  - -7;minecraft:red_bed[facing=west,occupied=false,part=foot]
+  - -8;minecraft:ice
+  x=-6:
+  - -2;minecraft:snow_block
+  - -3;minecraft:furnace[facing=south,lit=false]
+  - -4;minecraft:white_carpet
+  - -5;minecraft:white_carpet
+  - -6;minecraft:white_carpet
+  - -8;minecraft:snow_block
+  x=-7:
+  - -3;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-8:
+  - -4;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-9:
+  - -4;minecraft:snow_block
+  - -6;minecraft:snow_block
+y=23:
+  x=-2:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-3:
+  - -3;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-4:
+  - -2;minecraft:snow_block
+  - -8;minecraft:snow_block
+  x=-5:
+  - -2;minecraft:snow_block
+  - -8;minecraft:snow_block
+  x=-6:
+  - -2;minecraft:snow_block
+  - -8;minecraft:snow_block
+  x=-7:
+  - -3;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-8:
+  - -4;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-9:
+  - -4;minecraft:snow_block
+  - -6;minecraft:snow_block
+y=24:
+  x=-3:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-4:
+  - -3;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-5:
+  - -3;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-6:
+  - -3;minecraft:snow_block
+  - -7;minecraft:snow_block
+  x=-7:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-8:
+  - -5;minecraft:snow_block
+  x=-9:
+  - -5;minecraft:snow_block
+y=25:
+  x=-4:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-5:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+  x=-6:
+  - -4;minecraft:snow_block
+  - -5;minecraft:snow_block
+  - -6;minecraft:snow_block
+mobcount: 2
+mobs:
+  '0':
+    type: VILLAGER
+    pos: 10.257024469496173;1.0;4.097093876092913
+  '1':
+    type: ZOMBIE_VILLAGER
+    pos: 10.457024457575244;1.0;6.097093876092913

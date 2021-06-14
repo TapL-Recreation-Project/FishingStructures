@@ -1,0 +1,356 @@
+y=0:
+  x=-1:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:cobblestone
+  x=-2:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-3:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:cobblestone
+  x=-4:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-5:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-6:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-7:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+y=1:
+  x=-1:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  x=-2:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:chest[facing=east,type=single,waterlogged=false]
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-3:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:chest[facing=north,type=single,waterlogged=false]
+  - -9;minecraft:cobblestone
+  x=-4:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:spawner
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-5:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-6:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-7:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+y=2:
+  x=-1:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  x=-2:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:mossy_cobblestone
+  x=-3:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-4:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:mossy_cobblestone
+  x=-5:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:mossy_cobblestone
+  x=-6:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:mossy_cobblestone
+  x=-7:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+y=3:
+  x=-1:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-2:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:mossy_cobblestone
+  x=-3:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-4:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-5:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-6:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:yellow_concrete
+  - -3;minecraft:yellow_concrete
+  - -4;minecraft:yellow_concrete
+  - -5;minecraft:yellow_concrete
+  - -6;minecraft:yellow_concrete
+  - -7;minecraft:yellow_concrete
+  - -8;minecraft:yellow_concrete
+  - -9;minecraft:cobblestone
+  x=-7:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:cobblestone
+y=4:
+  x=-1:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-2:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  x=-3:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:cobblestone
+  x=-4:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-5:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:mossy_cobblestone
+  - -7;minecraft:mossy_cobblestone
+  - -8;minecraft:mossy_cobblestone
+  - -9;minecraft:mossy_cobblestone
+  x=-6:
+  - -1;minecraft:cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  x=-7:
+  - -1;minecraft:mossy_cobblestone
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:mossy_cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+mobcount: 0

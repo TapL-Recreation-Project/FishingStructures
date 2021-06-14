@@ -1,0 +1,4 @@
+name: FishingStructures
+version: ${project.version}
+main: me.swipez.fishingstructures.FishingStructures
+api-version: 1.16

@@ -1,0 +1,1389 @@
+y=0:
+  x=-2:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-3:
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-4:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  x=-5:
+  - -1;minecraft:dark_oak_log[axis=y]
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  - -13;minecraft:vine[east=false,north=true,south=false,up=false,west=false]
+  x=-7:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  x=-8:
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  x=-9:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  - -13;minecraft:vine[east=false,north=true,south=false,up=false,west=false]
+  x=-10:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  x=-11:
+  - -1;minecraft:dark_oak_log[axis=y]
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:mossy_cobblestone
+  - -13;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:cobblestone
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-13:
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-14:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+y=1:
+  x=-2:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-3:
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:mossy_cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-4:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:mossy_cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-5:
+  - -1;minecraft:dark_oak_log[axis=y]
+  - -2;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -2;minecraft:cobblestone
+  - -10;minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -12;minecraft:cobblestone
+  x=-7:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-8:
+  - -12;minecraft:cobblestone
+  x=-9:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-10:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-11:
+  - -1;minecraft:dark_oak_log[axis=y]
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -5;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -6;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -7;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -8;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -9;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-13:
+  - -2;minecraft:vine[east=false,north=false,south=true,up=false,west=true]
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:mossy_cobblestone
+  x=-14:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -6;minecraft:vine[east=false,north=false,south=false,up=false,west=true]
+  - -10;minecraft:dark_oak_log[axis=y]
+y=2:
+  x=-2:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-3:
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -9;minecraft:mossy_cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-4:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-5:
+  - -1;minecraft:dark_oak_log[axis=y]
+  - -2;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-7:
+  - -2;minecraft:cobblestone
+  x=-8:
+  - -12;minecraft:cobblestone
+  x=-9:
+  - -2;minecraft:cobblestone
+  x=-10:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:mossy_cobblestone
+  x=-11:
+  - -1;minecraft:dark_oak_log[axis=y]
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-13:
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:vine[east=false,north=true,south=false,up=false,west=false]
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-14:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -7;minecraft:vine[east=false,north=false,south=false,up=false,west=true]
+  - -10;minecraft:dark_oak_log[axis=y]
+y=3:
+  x=-2:
+  - -4;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -10;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-3:
+  - -3;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+  x=-4:
+  - -2;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -3;minecraft:cobblestone
+  - -4;minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:cobblestone
+  - -12;minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+  x=-5:
+  - -1;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-6:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-7:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-8:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-9:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-10:
+  - -2;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-11:
+  - -1;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -2;minecraft:cobblestone
+  - -3;minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -12;minecraft:cobblestone
+  - -13;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-12:
+  - -2;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -3;minecraft:cobblestone
+  - -4;minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -11;minecraft:cobblestone
+  - -12;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+  x=-13:
+  - -3;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:mossy_cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+  x=-14:
+  - -4;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -5;minecraft:vine[east=false,north=false,south=false,up=false,west=true]
+  - -10;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+y=4:
+  x=-3:
+  - -5;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -6;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -7;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -8;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -9;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-4:
+  - -4;minecraft:cobblestone
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:cobblestone
+  x=-5:
+  - -3;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:cobblestone
+  x=-6:
+  - -2;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-7:
+  - -2;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-8:
+  - -2;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-9:
+  - -2;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-10:
+  - -2;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  x=-11:
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-12:
+  - -4;minecraft:cobblestone
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:cobblestone
+  x=-13:
+  - -5;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -6;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -7;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -8;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+  - -9;minecraft:dark_oak_slab[type=bottom,waterlogged=false]
+y=5:
+  x=-3:
+  - -6;minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:cobblestone_slab[type=top,waterlogged=false]
+  - -8;minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  x=-4:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:dark_oak_log[axis=x]
+  - -8;minecraft:birch_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-5:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_planks
+  x=-7:
+  - -2;minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -2;minecraft:cobblestone_slab[type=top,waterlogged=false]
+  - -3;minecraft:dark_oak_log[axis=z]
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=z]
+  - -12;minecraft:cobblestone_slab[type=top,waterlogged=false]
+  x=-9:
+  - -2;minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:dark_oak_log[axis=x]
+  - -8;minecraft:birch_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-13:
+  - -6;minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:cobblestone_slab[type=top,waterlogged=false]
+  - -8;minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+y=6:
+  x=-4:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-5:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -4;minecraft:birch_planks
+  - -5;minecraft:cobblestone
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+y=7:
+  x=-4:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-5:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+y=8:
+  x=-4:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-5:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-7:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-8:
+  - -3;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -11;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  x=-9:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -6;minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+y=9:
+  x=-4:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_log[axis=x]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-5:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_planks
+  x=-7:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_planks
+  x=-8:
+  - -3;minecraft:dark_oak_log[axis=z]
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=z]
+  x=-9:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_planks
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -7;minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_log[axis=x]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+y=10:
+  x=-4:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_log[axis=x]
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_log[axis=x]
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-5:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -9;minecraft:birch_planks
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -9;minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:dark_oak_planks
+  x=-7:
+  - -3;minecraft:dark_oak_log[axis=z]
+  - -11;minecraft:dark_oak_log[axis=z]
+  x=-8:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-9:
+  - -3;minecraft:dark_oak_log[axis=z]
+  - -11;minecraft:dark_oak_log[axis=z]
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:dark_oak_log[axis=y]
+  - -11;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_log[axis=x]
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_log[axis=x]
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_log[axis=y]
+y=11:
+  x=-4:
+  - -4;minecraft:cobblestone
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_log[axis=x]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:cobblestone
+  x=-5:
+  - -2;minecraft:vine[east=false,north=false,south=true,up=false,west=false]
+  - -3;minecraft:cobblestone
+  - -8;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:cobblestone
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-7:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-8:
+  - -3;minecraft:dark_oak_log[axis=z]
+  - -11;minecraft:dark_oak_log[axis=z]
+  x=-9:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  x=-12:
+  - -4;minecraft:cobblestone
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_log[axis=x]
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:cobblestone
+  x=-13:
+  - -10;minecraft:vine[east=false,north=false,south=false,up=false,west=true]
+y=12:
+  x=-3:
+  - -3;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -4;minecraft:cobblestone
+  - -5;minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -6;minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:cobblestone_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:dark_oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:cobblestone
+  - -11;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  x=-4:
+  - -2;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -3;minecraft:cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  x=-5:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -7;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone
+  x=-6:
+  - -2;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-7:
+  - -2;minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-8:
+  - -2;minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:mossy_cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-9:
+  - -2;minecraft:cobblestone_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-10:
+  - -2;minecraft:dark_oak_stairs[facing=south,half=top,shape=straight,waterlogged=false]
+  - -3;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]
+  x=-11:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:cobblestone
+  - -11;minecraft:mossy_cobblestone
+  - -12;minecraft:cobblestone
+  - -13;minecraft:vine[east=false,north=true,south=false,up=false,west=false]
+  x=-12:
+  - -2;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -3;minecraft:mossy_cobblestone
+  - -4;minecraft:cobblestone
+  - -5;minecraft:cobblestone
+  - -6;minecraft:cobblestone
+  - -7;minecraft:cobblestone
+  - -8;minecraft:cobblestone
+  - -9;minecraft:cobblestone
+  - -10;minecraft:cobblestone
+  - -11;minecraft:cobblestone
+  - -12;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  x=-13:
+  - -3;minecraft:dark_oak_slab[type=top,waterlogged=false]
+  - -4;minecraft:cobblestone
+  - -5;minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -6;minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -7;minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -8;minecraft:mossy_cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -9;minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]
+  - -10;minecraft:cobblestone
+  - -11;minecraft:dark_oak_slab[type=top,waterlogged=false]
+y=13:
+  x=-1:
+  - -4;minecraft:white_wall_banner[facing=west]
+  - -10;minecraft:white_wall_banner[facing=west]
+  x=-2:
+  - -3;minecraft:dark_oak_log[axis=x]
+  - -4;minecraft:dark_oak_log[axis=z]
+  - -5;minecraft:dark_oak_log[axis=z]
+  - -6;minecraft:dark_oak_log[axis=z]
+  - -7;minecraft:dark_oak_log[axis=z]
+  - -8;minecraft:dark_oak_log[axis=z]
+  - -9;minecraft:dark_oak_log[axis=z]
+  - -10;minecraft:dark_oak_log[axis=z]
+  - -11;minecraft:dark_oak_log[axis=x]
+  x=-3:
+  - -2;minecraft:mossy_cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:cobblestone
+  x=-4:
+  - -1;minecraft:dark_oak_log[axis=z]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=z]
+  x=-5:
+  - 0;minecraft:white_wall_banner[facing=north]
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  - -14;minecraft:white_wall_banner[facing=south]
+  x=-6:
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  x=-7:
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  x=-8:
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  x=-9:
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  x=-10:
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  x=-11:
+  - 0;minecraft:white_wall_banner[facing=north]
+  - -1;minecraft:dark_oak_log[axis=x]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=x]
+  - -14;minecraft:white_wall_banner[facing=south]
+  x=-12:
+  - -1;minecraft:dark_oak_log[axis=z]
+  - -2;minecraft:birch_planks
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:birch_planks
+  - -13;minecraft:dark_oak_log[axis=z]
+  x=-13:
+  - -2;minecraft:cobblestone
+  - -3;minecraft:birch_planks
+  - -4;minecraft:birch_planks
+  - -5;minecraft:birch_planks
+  - -6;minecraft:birch_planks
+  - -7;minecraft:birch_planks
+  - -8;minecraft:birch_planks
+  - -9;minecraft:birch_planks
+  - -10;minecraft:birch_planks
+  - -11;minecraft:birch_planks
+  - -12;minecraft:mossy_cobblestone
+  x=-14:
+  - -3;minecraft:dark_oak_log[axis=x]
+  - -4;minecraft:dark_oak_log[axis=z]
+  - -5;minecraft:dark_oak_log[axis=z]
+  - -6;minecraft:dark_oak_log[axis=z]
+  - -7;minecraft:dark_oak_log[axis=z]
+  - -8;minecraft:dark_oak_log[axis=z]
+  - -9;minecraft:dark_oak_log[axis=z]
+  - -10;minecraft:dark_oak_log[axis=z]
+  - -11;minecraft:dark_oak_log[axis=x]
+  x=-15:
+  - -4;minecraft:white_wall_banner[facing=east]
+  - -10;minecraft:white_wall_banner[facing=east]
+y=14:
+  x=-2:
+  - -3;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -4;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -5;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -6;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -8;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+  - -9;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -10;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -11;minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+  x=-3:
+  - -2;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  - -3;minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+  - -11;minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+  - -12;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  x=-4:
+  - -1;minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]
+  - -2;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -12;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+  - -13;minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]
+  x=-5:
+  - -1;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  - -13;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-6:
+  - -1;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  - -4;minecraft:chest[facing=east,type=single,waterlogged=false]
+  - -13;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-7:
+  - -1;minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+  - -13;minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]
+  x=-9:
+  - -1;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+  - -13;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+  x=-10:
+  - -1;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  - -13;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-11:
+  - -1;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  - -13;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]
+  x=-12:
+  - -1;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -2;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -12;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+  - -13;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+  x=-13:
+  - -2;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  - -3;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+  - -11;minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]
+  - -12;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  x=-14:
+  - -3;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]
+  - -4;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -5;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -6;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]
+  - -8;minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]
+  - -9;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -10;minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]
+  - -11;minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]
+y=15:
+  x=-3:
+  - -2;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  - -12;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  x=-5:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-11:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-13:
+  - -2;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+  - -12;minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]
+y=16:
+  x=-3:
+  - -2;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-5:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-11:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-13:
+  - -2;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+y=17:
+  x=-3:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-4:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-5:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-11:
+  - -4;minecraft:dark_oak_log[axis=y]
+  - -10;minecraft:dark_oak_log[axis=y]
+  x=-12:
+  - -3;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-13:
+  - -2;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+y=18:
+  x=-3:
+  - -2;minecraft:torch
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:torch
+  x=-4:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-5:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-6:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-10:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-11:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-12:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-13:
+  - -2;minecraft:torch
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:torch
+y=19:
+  x=-3:
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  x=-4:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-5:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-6:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-7:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-8:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-9:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-10:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-11:
+  - -2;minecraft:dark_oak_planks
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  - -12;minecraft:dark_oak_planks
+  x=-12:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-13:
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+y=20:
+  x=-4:
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  x=-5:
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  x=-6:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-7:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-8:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-9:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-10:
+  - -3;minecraft:dark_oak_planks
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  - -11;minecraft:dark_oak_planks
+  x=-11:
+  - -4;minecraft:dark_oak_planks
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
+  - -10;minecraft:dark_oak_planks
+  x=-12:
+  - -5;minecraft:dark_oak_planks
+  - -6;minecraft:dark_oak_planks
+  - -7;minecraft:dark_oak_planks
+  - -8;minecraft:dark_oak_planks
+  - -9;minecraft:dark_oak_planks
