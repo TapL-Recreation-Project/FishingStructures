@@ -78,9 +78,9 @@ public class FishingListener implements Listener {
         meta.addEnchant(Enchantment.CHANNELING, 1, true);
         itemStack.setItemMeta(meta);
 
-        Item item = (Item) location.getWorld().spawnEntity(location, EntityType.DROPPED_ITEM);
+        // Thx Caio, I wouldnt have noticed this xd
+        Item item = location.getWorld().dropItem(location, itemStack);
 
-        item.setItemStack(itemStack);
         item.setGravity(false);
         item.setCustomName(nameOfItem);
         item.setCustomNameVisible(true);
